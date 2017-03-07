@@ -1,0 +1,13 @@
+TeamName string,City string,Sport string,YearEstablished int,Mascot string,Stadium string,Season int,Wins int,Losses int,Ties int
+'Mets','New York','MLB Baseball',1962,'Mr. Met','Citi Field',2015,90,72,0
+'Mets','New York','MLB Baseball',1962,'Mr. Met','Citi Field',2014,79,83,0
+'Mets','New York','MLB Baseball',1962,'Mr. Met','Citi Field',2013,74,88,0
+'Steelers','Pittsburgh','NFL Football',1933,'Steely McBeam','Heinz Field',2015,10,6,0
+'Steelers','Pittsburgh','NFL Football',1933,'Steely McBeam','Heinz Field',2014,11,5,0
+'Steelers','Pittsburgh','NFL Football',1933,'Steely McBeam','Heinz Field',2013,8,8,0
+'Patriots','New England','NFL Football',1960,'Pat Patriot','Gillette Stadium',2015,12,4,0
+'Patriots','New England','NFL Football',1960,'Pat Patriot','Gillette Stadium',2014,12,4,0
+'Patriots','New England','NFL Football',1960,'Pat Patriot','Gillette Stadium',2013,12,4,0
+'Golden Bears','Berkeley','NCAA Football',1886,'Oski','Memorial Stadium',2016,5,7,0
+'Golden Bears','Berkeley','NCAA Football',1886,'Oski','Memorial Stadium',2015,8,5,0
+'Golden Bears','Berkeley','NCAA Football',1886,'Oski','Memorial Stadium',2014,5,7,0
